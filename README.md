@@ -95,24 +95,20 @@
   <h3>Family Cookbook</h3>
   
   <h2>Past Projects</h2>
-  <div align="left">
-    <h3>Projects of Note</h3>
-    <a href="https://wipblogmvp.wordpress.com/">Wordpress WIP Blog</a>
-    <h3>Ancient Portfolios</h3>
-    <a href="https://wipblogmvp.wordpress.com/">Wordpress WIP Blog</a>
-  </div>
+  
+  <h3>Projects of Note</h3>
+  
+  <h4>Universal Design Website</h4>
+  <p>A simple website designed for the purpose of practicing responsive, accessible website design</p>
+  <a href="https://pvmallard.github.io/universal-design-website/">Universal Design Website Link</a>
+  
+  <h3>Ancient Portfolios</h3>
+  <p>Beginner projects I created in university as temporary portfolios, blogs, and other websites. Until I publish my updated portfolio, feel free to peek at these. Keep in mind they are... fine at best.</p>
+  <p><a href="https://wipblogmvp.wordpress.com/">Wordpress WIP Blog</a></p>
+  <p><a href="https://pvmallard.github.io/malloryPrescottPortfolio/index.html">Four Project Portfolio</a></p>
+  <p><a href="https://pvmallard.github.io/index.html">Baby's First Portfolio</a></p>
   
 </div>
-
-
-
-## Projects in Development
-
-## Past Projects of Note
-
-## Past Portfolios
-Beginner projects I created in university as temporary portfolios, blogs, and other websites. Until I publish my updated portfolio, feel free to peek at these. Keep in mind they are... fine at best.
-
 
 
 <!--
