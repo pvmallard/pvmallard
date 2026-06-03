@@ -6,7 +6,7 @@
   
   <h3>A Bit About Me</h3>
   <div align="left">
-    ```yaml
+    
     name: Mallory Prescott
     current_job: Usability Testing Consultant
     company: The Wehrman Collaborative
@@ -29,7 +29,7 @@
       "WCAG 2.2 Standards and ARIA labels", 
       "Full Stack PERN implementation"
     ]
-  ```
+  
   <small>Inspo from:
   <a href="https://github.com/thepiyushmalhotra">Piyush Malhotra</a>
   </small>
