@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Hi, this is Mallory!</h1>
   
-  <h2>Accessibility-Focused Full Stack Developer</h2>
-  <p>With over five years of combined professional and academic experience in full stack development and design, I have foundations in frontend, backend, database, and user interface development. With today's rapid innovations, I am always eager to learn more. I work hard to keep up, especially when it comes to merging new innovations with accessible design.</p>
+  <h2>Accessibility-Focused Full Stack Developer and Graphic Designer</h2>
+  <p>With over five years of combined professional and academic experience in full stack development and design, I have a strong foundation in frontend, backend, database, and user interface development. I work hard to keep up with today's rapid innovations, especially when it comes to creative solutions and accessible design.</p>
   
   <h3>A Bit About Me</h3>
   <div align="left">
@@ -19,6 +19,7 @@
     [
       "Full Stack Web Development",
       "User Experience and User Interfaces",
+      "Graphic Design, Animaiton, and Illustration", 
       "Data Science",
       "Game Development",
       "Universal Deisgn and Accessibility Standards"
@@ -36,35 +37,36 @@
   </div>
   
   <h3>Skills and Tools</h3>
-  <p>Frontend and Backend</p>
+  <p>As a full-stack developer, I have a variety of skills and softwares I utilize in development and design: information technology tools, graphic design, sketching and illustration, rapid prototyping, agile/scrum methodology, accessibility standards, customer service, team collaboration, multitasking, organization, and more.</p>
+  <h4>Frontend and Backend</h4>
   <img 
       height="42"
       src="https://skillicons.dev/icons?i=react,js,html,css,cpp,cs,java,nextjs,scala,wordpress,bootstrap,tailwind&theme=dark"
-      alt="frontend development skill icons JavaScript, HTML, CSS"
+      alt="frontend development skill icons React, JavaScript, HTML, CSS, C plus plus, C sharp, Next.js, Scala, Wordpress, Bootstrap, Tailwind"
   />
-  <p>Database</p>
+  <h4>Database</h4>
   <img 
       height="42"
       src="https://skillicons.dev/icons?i=docker,jquery,mysql,mongodb,postgres,postman&theme=dark"
-      alt="database skill icons JavaScript, HTML, CSS"
+      alt="database skill icons Docker, Jquery, MySQL, MongoDB, Postgres, Postman"
   />
-  <p>Design and Game Development</p>
+  <h4>Design and Game Development</h4>
   <img 
       height="42"
       src="https://skillicons.dev/icons?i=figma,idea,ai,ps,godot,unity,ableton&theme=dark"
-      alt="design and game development skill icons Figma, Adobe Illustrator, Photoshop"
+      alt="design and game development skill icons Figma, InDesign, Adobe Illustrator, Photoshop, Godot, Unity, Ableton"
   />
-  <p>DevOps and Hosting</p>
+  <h4>DevOps and Hosting</h4>
   <img 
       height="42"
       src="https://skillicons.dev/icons?i=aws,bash,git,cloudflare,firebase,npm,powershell,vercel,vscode&theme=dark"
-      alt="frontend development skill icons "
+      alt="frontend development skill icons Amazon Web Services, Bash, Git, Cloudflare, Firebase, npm, Powershell, Vercel, VSCode"
   />
-  <p>Other</p>
+  <h4>Other</h4>
   <img 
       height="42"
       src="https://skillicons.dev/icons?i=arduino,discord,github,latex&theme=dark"
-      alt="other skill icons JavaScript, HTML, CSS"
+      alt="other skill icons Arduino, Discord, Github, Latex"
   />
 
   <h3>Let's Connect!</h3>
@@ -92,7 +94,11 @@
   
   <h2>Projects in Development</h2>
   <h3>Updated Portfolio</h3>
+  <p>My current portfolio is undergoing a redesign and restructure. Trust me, I want to see it finished as much as you do.</p>
   <h3>Family Cookbook</h3>
+  <p>A website for sharing, collecting, and uploading recipes specifically designed for my family, my friends, and myself</p>
+  <p>There are countless apps like these out there, but none structured quite how we'd like. It is currently under development and in testing. I am testing PERN implementation alongside wireframing the pages, interactions, and design reference. There is always more and more to wireframe when you think of more and more you'd love to have on a site. During which, I am also conducting audience surveys and user tests with my wireframes to see how basic navigation flows and its convenience. Construction plans currently include implementing the recipe database, add to database forms, search queries and structures, ingredient API integration, nutrutional information, cookbook creation, recipe saving features, cooking tips, account structuring, and more. </p>
+  <p>Future plans include commenting and rating recipes, image library and hosting storage, meal planning, diet and nutrutional education, and further features. I am unfortunately, very ambitious, with not nearly enough time to act on all my plans. But so long as I have my basic structure and functionality up, the sky is the limit.</p>
   
   <h2>Past Projects</h2>
   
